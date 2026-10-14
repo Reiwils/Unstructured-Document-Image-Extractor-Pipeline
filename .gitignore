@@ -4,3 +4,4 @@ Microsoft/Windows/PowerShell/ModuleAnalysisCache
 venv
 .env
 data/raw
+data/10Train
